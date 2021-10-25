@@ -57,7 +57,7 @@
   width: 1140px;
   min-height: 200px;
   margin: 0 auto;
-  padding: 31px 15px;
+  padding: 31px 15px; 
   /* border: 2px solid black; */
   display: flex;  
   justify-content: space-between;
@@ -67,6 +67,7 @@
   background: #f0f0f0;
   padding: 40px;
   min-height: 400px;
+  background: #232323;
 }
 .main{
   width: 730px;
@@ -100,6 +101,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background: #232323;
 }
 .footer__phone{
   display: flex;
